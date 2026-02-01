@@ -14,16 +14,15 @@ This repository is designed to showcase simple, well-documented programs that bu
 ---
 
 ## 📂 Project List
-1. **Hello World** – First Python script
-2. **Calculator** – Basic arithmetic operations
-3. **Guess the Number** – Random number game with user input
-4. **Simple To-Do List** – Manage tasks using lists
-5. **Password Generator** – Create random secure passwords
-6. **Dice Roller** – Simulate rolling dice
-7. **Temperature Converter** – Convert Celsius ↔ Fahrenheit
-8. **Basic File Reader** – Read and display text files
-9. **Quiz Game** – Multiple-choice questions
-10. **Mini Banking System** – Deposit, withdraw, and balance check
+- **Calculator** – Basic arithmetic operations
+- **Guess the Number** – Random number game with user input
+- **Simple To-Do List** – Manage tasks using lists
+- **Password Generator** – Create random secure passwords
+- **Dice Roller** – Simulate rolling dice
+- **Temperature Converter** – Convert Celsius ↔ Fahrenheit
+- **Basic File Reader** – Read and display text files
+- **Quiz Game** – Multiple-choice questions
+- **Mini Banking System** – Deposit, withdraw, and balance check
 
 ---
 
@@ -35,7 +34,7 @@ This repository is designed to showcase simple, well-documented programs that bu
 ### Running a Project
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/python-beginners-projects.git
+git clone https://github.com/your-username/Python_Projects.git
 
 # Navigate into the folder
 cd python-beginners-projects
