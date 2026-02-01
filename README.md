@@ -14,7 +14,7 @@ This repository is designed to showcase simple, well-documented programs that bu
 ---
 
 ## 📂 Project List
-- **Calculator** – Basic arithmetic operations
+- **CLI_Calculator** – Basic arithmetic operations
 - **Guess the Number** – Random number game with user input
 - **Simple To-Do List** – Manage tasks using lists
 - **Password Generator** – Create random secure passwords
