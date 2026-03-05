@@ -1,4 +1,4 @@
-# 🐍 Python Beginners Projects
+# 🐍 Python Projects
 
 Welcome to my collection of **Python beginner-friendly projects**!  
 This repository is designed to showcase simple, well-documented programs that build a strong foundation in Python programming. Each project focuses on core concepts like variables, loops, conditionals, functions, and file handling.
