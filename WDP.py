@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-Df = pd.DataFrame(pd.read_csv(r"Data\weather_data.csv"))
+Df = pd.DataFrame(pd.read_csv(r"C:\Users\Admin\PROJECTS\AI_Projects\Python_Projects\Data\weather_data.csv"))
 print(Df.columns)
 df = Df.head(20)
 
