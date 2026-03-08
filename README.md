@@ -15,15 +15,8 @@ This repository is designed to showcase simple, well-documented programs that bu
 
 ## 📂 Project List
 - **CLI_Calculator** – Basic arithmetic operations
-- **Guess the Number** – Random number game with user input
-- **Simple To-Do List** – Manage tasks using lists
-- **Password Generator** – Create random secure passwords
-- **Dice Roller** – Simulate rolling dice
-- **Temperature Converter** – Convert Celsius ↔ Fahrenheit
-- **Basic File Reader** – Read and display text files
-- **Quiz Game** – Multiple-choice questions
-- **Mini Banking System** – Deposit, withdraw, and balance check
-
+- **Student Mark Analyzer** – Read marks from a CSV file, calculate averages, and visualize results using Matplotlib.  
+- **Weather Data Plotter** – Plot temperature trends from sample datasets to understand seasonal variations.
 ---
 
 ## 🚀 Getting Started
